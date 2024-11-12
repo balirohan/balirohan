@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Rohan Bali</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Rohan+:);A+Data+Science+Enthusiast!;I+love+to+code.;">
 </p>
