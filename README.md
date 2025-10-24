@@ -14,7 +14,7 @@
 ## Languages
 <p>
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%458812.svg?logo=Python&logoColor=white"></a>
-    <a href="#"><img alt="ReactJS" src="https://img.shields.io/badge/Java-%2361DAFB.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"></a>
     <a href="#"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
